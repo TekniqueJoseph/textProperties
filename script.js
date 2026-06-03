@@ -1,1 +1,1 @@
-document.querySelector('body').style.background = 'lightgray'
+document.querySelector('body').style.background = 'azure'
